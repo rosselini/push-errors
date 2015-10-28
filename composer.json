@@ -1,0 +1,18 @@
+{
+    "name": "root/push_errors_composer",
+    "authors": [
+        {
+            "name": "rosselini",
+            "email": "tortoise1206@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "PushErrors": "src/"
+        }
+    }
+}
